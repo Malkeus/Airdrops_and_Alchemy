@@ -146,40 +146,6 @@
                 "panties"
             ]
         }
-    },
-	{
-        "type": "profession",
-        "ident": "zp_agent",
-        "name": "Zero-Point Agent *DD*",
-        "description": "You travelled through time to stop the cataclysm, but you arrived too late...",
-        "points": -1,
-        "items": {
-            "both" :
-            [
-                "zp_suit",
-                "zp_oversuit",
-                "zp_cryosuit",
-                "zp_item",
-				"zp_nutrient",
-				"zp_nutrient",
-				"zp_lifesaver",
-				"Chemical",
-				"Chemical",
-				"Chemical",
-				"Chemical",
-				"Chemical",
-				"zp_laserpistol",
-				"multitool",
-				"zp_lighter",
-                "antibiotics"
-            ]
-        },
-        "addictions": [
-            {
-                "intensity": 1,
-                "type": "mutagen"
-            }
-        ]
     },{
         "type": "profession",
         "ident": "signaller",

@@ -298,31 +298,6 @@
   ]
 },{
   "type" : "recipe",
-  "result": "plut_cell",
-  "id_suffix": "my_mod",
-  "category": "CC_AMMO",
-  "subcategory": "CSC_AMMO_OTHER",
-  "skill_used": "cooking",
-  "difficulty": 2,
-  "time": 1000,
-  "reversible": true,
-  "autolearn": true,
-  "tools": [
-    [
-      [ "zp_irradiator", 2 ]
-    ]
-  ],
-  "components": [
-    [
-      [ "steel_chunk", 2 ],
-      [ "scrap", 6 ]
-    ],
-	[
-      [ "Chemical", 50 ]
-    ]
-  ]
-},{
-  "type" : "recipe",
   "result": "9mm_hp",
   "id_suffix": "my_mod",
   "category": "CC_AMMO",
@@ -346,22 +321,6 @@
   "components": [
     [
       [ "9mm", 25 ]
-    ]
-  ]
-},{
-  "type" : "recipe",
-  "result": "3d_resin",
-  "id_suffix": "my_mod",
-  "category": "CC_AMMO",
-  "subcategory": "CSC_AMMO_OTHER",
-  "skill_used": "fabrication",
-  "difficulty": 0,
-  "time": 1000,
-  "reversible": true,
-  "autolearn": true,
-  "components": [
-    [
-      [ "plastic_chunk", 2]
     ]
   ]
 }
