@@ -1,6 +1,21 @@
 [
 {
   "type" : "recipe",
+  "result": "rock",
+  "id_suffix": "DD_mod",
+  "category": "CC_OTHER",
+  "subcategory": "CSC_OTHER_OTHER",
+  "difficulty": 0,
+  "time": 1000,
+  "reversible": false,
+  "autolearn": true,
+  "components": [
+    [
+      [ "pebble", 2]
+    ]
+  ]
+},{
+  "type" : "recipe",
   "result": "cable",
   "id_suffix": "my_mod",
   "category": "CC_ELECTRONIC",

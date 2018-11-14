@@ -6,13 +6,15 @@
   "category": "CC_OTHER",
   "subcategory": "CSC_OTHER_OTHER",
   "difficulty": 0,
-  "time": 30000,
-  "autolearn": true,
+  "time": 10000,
+  "autolearn": false,
+  "tools": [[[ "two_way_radio", 10]]],
   "components": [
     [
       [ "handflare", 1]
     ]
-  ]
+  ],
+    "flags": [ "BLIND_EASY" ]
 },{
   "type" : "recipe",
   "result": "crate_comforts",
@@ -20,14 +22,16 @@
   "category": "CC_OTHER",
   "subcategory": "CSC_OTHER_OTHER",
   "difficulty": 0,
-  "time": 30000,
+  "time": 10000,
   "reversible": false,
   "autolearn": true,
+  "tools": [[[ "two_way_radio", 10]]],
   "components": [
     [
       [ "handflare", 1]
     ]
-  ]
+  ],
+    "flags": [ "BLIND_EASY" ]
 },{
   "type" : "recipe",
   "result": "crate_cloth_repair_drop",
@@ -35,14 +39,16 @@
   "category": "CC_OTHER",
   "subcategory": "CSC_OTHER_OTHER",
   "difficulty": 0,
-  "time": 30000,
+  "time": 10000,
   "reversible": false,
   "autolearn": true,
+  "tools": [[[ "two_way_radio", 10]]],
   "components": [
     [
       [ "handflare", 1]
     ]
-  ]
+  ],
+    "flags": [ "BLIND_EASY" ]
 },{
   "type" : "recipe",
   "result": "crate_motorcycle_drop",
@@ -50,14 +56,16 @@
   "category": "CC_OTHER",
   "subcategory": "CSC_OTHER_OTHER",
   "difficulty": 0,
-  "time": 30000,
+  "time": 10000,
   "reversible": false,
   "autolearn": true,
+  "tools": [[[ "two_way_radio", 10]]],
   "components": [
     [
       [ "handflare", 1]
     ]
-  ]
+  ],
+    "flags": [ "BLIND_EASY" ]
 },{
   "type" : "recipe",
   "result": "crate_ammo",
@@ -65,14 +73,16 @@
   "category": "CC_OTHER",
   "subcategory": "CSC_OTHER_OTHER",
   "difficulty": 0,
-  "time": 30000,
+  "time": 10000,
   "reversible": false,
   "autolearn": true,
+  "tools": [[[ "two_way_radio", 10]]],
   "components": [
     [
       [ "handflare", 1]
     ]
-  ]
+  ],
+    "flags": [ "BLIND_EASY" ]
 },{
   "type" : "recipe",
   "result": "crate_sundries",
@@ -80,14 +90,16 @@
   "category": "CC_OTHER",
   "subcategory": "CSC_OTHER_OTHER",
   "difficulty": 0,
-  "time": 30000,
+  "time": 10000,
   "reversible": false,
   "autolearn": true,
+  "tools": [[[ "two_way_radio", 10]]],
   "components": [
     [
       [ "handflare", 1]
     ]
-  ]
+  ],
+    "flags": [ "BLIND_EASY" ]
 },{
   "type" : "recipe",
   "result": "crate_chemical_drop",
@@ -95,14 +107,16 @@
   "category": "CC_OTHER",
   "subcategory": "CSC_OTHER_OTHER",
   "difficulty": 0,
-  "time": 30000,
+  "time": 10000,
   "reversible": false,
   "autolearn": true,
+  "tools": [[[ "two_way_radio", 10]]],
   "components": [
     [
       [ "handflare", 1]
     ]
-  ]
+  ],
+    "flags": [ "BLIND_EASY" ]
 },{
   "type" : "recipe",
   "result": "crate_materials_drop",
@@ -110,14 +124,16 @@
   "category": "CC_OTHER",
   "subcategory": "CSC_OTHER_OTHER",
   "difficulty": 0,
-  "time": 30000,
+  "time": 10000,
   "reversible": false,
   "autolearn": true,
+  "tools": [[[ "two_way_radio", 10]]],
   "components": [
     [
       [ "handflare", 1]
     ]
-  ]
+  ],
+    "flags": [ "BLIND_EASY" ]
 },{
   "type" : "recipe",
   "result": "crate_preserves_drop",
@@ -125,29 +141,16 @@
   "category": "CC_OTHER",
   "subcategory": "CSC_OTHER_OTHER",
   "difficulty": 0,
-  "time": 30000,
+  "time": 10000,
   "reversible": false,
   "autolearn": true,
+  "tools": [[[ "two_way_radio", 10]]],
   "components": [
     [
       [ "handflare", 1]
     ]
-  ]
-},{
-  "type" : "recipe",
-  "result": "crate_lifetime_drop",
-  "id_suffix": "my_mod_airdrop",
-  "category": "CC_OTHER",
-  "subcategory": "CSC_OTHER_OTHER",
-  "difficulty": 0,
-  "time": 30000,
-  "reversible": false,
-  "autolearn": true,
-  "components": [
-    [
-      [ "handflare", 1]
-    ]
-  ]
+  ],
+    "flags": [ "BLIND_EASY" ]
 },{
   "type" : "recipe",
   "result": "crate_spec_ops_drop",
@@ -155,14 +158,16 @@
   "category": "CC_OTHER",
   "subcategory": "CSC_OTHER_OTHER",
   "difficulty": 0,
-  "time": 30000,
+  "time": 10000,
   "reversible": false,
   "autolearn": true,
+  "tools": [[[ "two_way_radio", 10]]],
   "components": [
     [
       [ "handflare", 1]
     ]
-  ]
+  ],
+    "flags": [ "BLIND_EASY" ]
 },{
   "type" : "recipe",
   "result": "crate_blacksmith_drop",
@@ -170,14 +175,16 @@
   "category": "CC_OTHER",
   "subcategory": "CSC_OTHER_OTHER",
   "difficulty": 0,
-  "time": 30000,
+  "time": 10000,
   "reversible": false,
   "autolearn": true,
+  "tools": [[[ "two_way_radio", 10]]],
   "components": [
     [
       [ "handflare", 1]
     ]
-  ]
+  ],
+    "flags": [ "BLIND_EASY" ]
 },{
   "type" : "recipe",
   "result": "crate_bionic_basic_drop",
@@ -185,14 +192,16 @@
   "category": "CC_OTHER",
   "subcategory": "CSC_OTHER_OTHER",
   "difficulty": 0,
-  "time": 30000,
+  "time": 10000,
   "reversible": false,
   "autolearn": true,
+  "tools": [[[ "two_way_radio", 10]]],
   "components": [
     [
       [ "handflare", 1]
     ]
-  ]
+  ],
+    "flags": [ "BLIND_EASY" ]
 },{
   "type" : "recipe",
   "result": "crate_camping_drop",
@@ -200,14 +209,16 @@
   "category": "CC_OTHER",
   "subcategory": "CSC_OTHER_OTHER",
   "difficulty": 0,
-  "time": 30000,
+  "time": 10000,
   "reversible": false,
   "autolearn": true,
+  "tools": [[[ "two_way_radio", 10]]],
   "components": [
     [
       [ "handflare", 1]
     ]
-  ]
+  ],
+    "flags": [ "BLIND_EASY" ]
 },{
   "type" : "recipe",
   "result": "tank_gasoline_drop",
@@ -215,14 +226,16 @@
   "category": "CC_OTHER",
   "subcategory": "CSC_OTHER_OTHER",
   "difficulty": 0,
-  "time": 30000,
+  "time": 10000,
   "reversible": false,
   "autolearn": true,
+  "tools": [[[ "two_way_radio", 10]]],
   "components": [
     [
       [ "handflare", 1]
     ]
-  ]
+  ],
+    "flags": [ "BLIND_EASY" ]
 },{
   "type" : "recipe",
   "result": "crate_flares_drop",
@@ -230,14 +243,16 @@
   "category": "CC_OTHER",
   "subcategory": "CSC_OTHER_OTHER",
   "difficulty": 0,
-  "time": 30000,
+  "time": 10000,
   "reversible": false,
   "autolearn": true,
+  "tools": [[[ "two_way_radio", 10]]],
   "components": [
     [
       [ "handflare", 1]
     ]
-  ]
+  ],
+    "flags": [ "BLIND_EASY" ]
 },{
   "type" : "recipe",
   "result": "crate_gi_drop",
@@ -245,14 +260,16 @@
   "category": "CC_OTHER",
   "subcategory": "CSC_OTHER_OTHER",
   "difficulty": 0,
-  "time": 30000,
+  "time": 10000,
   "reversible": false,
   "autolearn": true,
+  "tools": [[[ "two_way_radio", 10]]],
   "components": [
     [
       [ "handflare", 1]
     ]
-  ]
+  ],
+    "flags": [ "BLIND_EASY" ]
 },{
   "type" : "recipe",
   "result": "crate_tools_drop",
@@ -260,14 +277,16 @@
   "category": "CC_OTHER",
   "subcategory": "CSC_OTHER_OTHER",
   "difficulty": 0,
-  "time": 30000,
+  "time": 10000,
   "reversible": false,
   "autolearn": true,
+  "tools": [[[ "two_way_radio", 10]]],
   "components": [
     [
       [ "handflare", 1]
     ]
-  ]
+  ],
+    "flags": [ "BLIND_EASY" ]
 },{
   "type" : "recipe",
   "result": "crate_water_drop",
@@ -275,14 +294,16 @@
   "category": "CC_OTHER",
   "subcategory": "CSC_OTHER_OTHER",
   "difficulty": 0,
-  "time": 30000,
+  "time": 10000,
   "reversible": false,
   "autolearn": true,
+  "tools": [[[ "two_way_radio", 10]]],
   "components": [
     [
       [ "handflare", 1]
     ]
-  ]
+  ],
+    "flags": [ "BLIND_EASY" ]
 },{
   "type" : "recipe",
   "result": "crate_firstaid",
@@ -290,14 +311,16 @@
   "category": "CC_OTHER",
   "subcategory": "CSC_OTHER_OTHER",
   "difficulty": 0,
-  "time": 30000,
+  "time": 10000,
   "reversible": false,
   "autolearn": true,
+  "tools": [[[ "two_way_radio", 10]]],
   "components": [
     [
       [ "handflare", 1]
     ]
-  ]
+  ],
+    "flags": [ "BLIND_EASY" ]
 },{
   "type" : "recipe",
   "result": "crate_food_mre",
@@ -305,13 +328,15 @@
   "category": "CC_OTHER",
   "subcategory": "CSC_OTHER_OTHER",
   "difficulty": 0,
-  "time": 30000,
+  "time": 10000,
   "reversible": false,
   "autolearn": true,
+  "tools": [[[ "two_way_radio", 10]]],
   "components": [
     [
       [ "handflare", 1]
     ]
-  ]
+  ],
+    "flags": [ "BLIND_EASY" ]
 }
 ]
